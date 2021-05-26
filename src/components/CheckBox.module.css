@@ -1,0 +1,33 @@
+.checkbox {
+    display: flex;
+    align-items: center;
+}
+
+.checkbox label {
+    cursor: pointer;
+}
+
+/* 커스텀 체크 박스를 만드는 방법 */
+.checkbox input { 
+    width: 0;
+    height: 0;
+    position: absolute;
+    opacity: 0;
+}
+
+.checkbox span {
+    font-size: 1.125rem;
+    font-weight: bold;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    margin-right: 0.25rem;
+    color: #adb5bd;
+}
+
+.checkbox {
+    color: #339af0;
+}
