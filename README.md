@@ -3,7 +3,7 @@
 SCSS, REACT로 만든 간단한 버튼 스타일링 테스트입니다. :satisfied:
 
 > git 페이지 입니다. <br>
-> - https://door0.github.io/scss-react/
+> - https://door0.github.io/scss-react/index.html
 
 ## :pushpin: Summary
 
