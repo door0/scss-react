@@ -14,4 +14,4 @@ SCSS, REACT로 만든 간단한 버튼 스타일링 테스트입니다. :satisfi
 
 ## :calendar: Update
 
-2021/ 05/ 30
+2021/ 05/ 31
